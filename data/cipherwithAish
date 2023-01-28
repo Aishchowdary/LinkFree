@@ -1,0 +1,29 @@
+{
+"name":"cipherwithAish",
+"displayStatspublic":true,
+"type":"personal",
+"bio":Newbie in Tech,Web Developer, Enthusiast
+"avatar":"https://github.com/cipherwithAish.png"
+"links":[
+{
+  "name":"follow me on Twitter",
+  "url":"https://twitter.com/Aishwarya00862417",
+  "icon":"FaTwitter"
+   },
+   {
+    "name":"Instagram",
+    "url":"https://www.instagram.com/its_meishu/",
+     "icon":"FaInstagram"
+     },
+     {
+       "name":linkedIn",
+       "url":"https://www.linkedin.com/in/aishwarya-chowdary-635769229
+       "icon":"Falinkedin"
+      },
+      { 
+        "name":"Github",
+        "url":"https://Github.com/cipherwithAish",
+        "icon":"FaGithub"
+        }
+      ]
+    }
